@@ -1,4 +1,4 @@
-# Coursera_Capstone
+# Coursera Capstone Project in IBM Watson
 This repository is for Coursera Data Science Capstone project
 
 If you are facing trouble with opening .ipynb file, it is a temporary github problem.
